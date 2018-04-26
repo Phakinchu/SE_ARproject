@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\219327bec323d5b725a8d649467a0d7b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:17:1-22:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:4:5-45
+	android:theme
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:5:5-52
+uses-sdk
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\219327bec323d5b725a8d649467a0d7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\219327bec323d5b725a8d649467a0d7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:20:5-44
+INJECTED from J:\Neramit\src\main\AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+		INJECTED from J:\Neramit\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:10:9-35
+uses-feature#android.hardware.camera
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:13:19-57
+supports-screens
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:15:5-20:40
+	android:largeScreens
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:17:9-36
+	android:smallScreens
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:19:9-36
+	android:normalScreens
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:18:9-37
+	android:xlargeScreens
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:20:9-37
+	android:anyDensity
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:16:9-34
+uses-permission#android.permission.INTERNET
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CAMERA
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:25:22-78
+uses-feature#0x00020000
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:27:5-54
+	android:glEsVersion
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:27:19-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:29:9-57
+uses-feature#android.hardware.camera.front
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:32:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:35:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:38:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:41:9-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:44:5-75
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:44:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:45:22-77
+application
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:47:5-106:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\219327bec323d5b725a8d649467a0d7b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\219327bec323d5b725a8d649467a0d7b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:52:9-35
+	android:label
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:50:9-41
+	android:roundIcon
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:51:9-54
+	android:icon
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:49:9-43
+	android:allowBackup
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:48:9-35
+	android:theme
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:53:9-40
+activity#com.cpe.neramit.UnityPlayerNativeActivity
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:54:9-66:20
+	android:screenOrientation
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:59:13-51
+	android:label
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:57:13-45
+	android:launchMode
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:58:13-44
+	android:configChanges
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:56:13-194
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:55:13-54
+meta-data#unityplayer.UnityActivity
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:60:13-62:40
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:62:17-37
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:61:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:63:13-65:41
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:65:17-38
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:64:17-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:67:9-71:52
+	android:screenOrientation
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:70:13-45
+	android:configChanges
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:69:13-170
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:68:13-58
+uses-library#com.ti.s3d
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:77:9-79:40
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:78:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:81:9-83:40
+	android:required
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:82:13-54
+meta-data#unity.build-id
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:85:9-87:68
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:87:13-65
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:86:13-42
+meta-data#unity.splash-mode
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:88:9-90:33
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:90:13-30
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:89:13-45
+meta-data#unity.splash-enable
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:91:9-93:36
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:93:13-33
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:92:13-47
+meta-data#android.max_aspect
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:94:9-96:35
+	android:value
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:96:13-32
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:95:13-46
+activity#com.cpe.neramit.WelcomeActivity
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:98:9-103:20
+	android:theme
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:98:51-80
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:98:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:99:13-102:29
+action#android.intent.action.MAIN
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:100:17-69
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:100:25-66
+category#android.intent.category.LAUNCHER
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:101:17-77
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:101:27-74
+activity#com.cpe.neramit.LearnMoreActivity
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:104:9-55
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:104:19-52
+activity#com.cpe.neramit.HowToPlayActivity
+ADDED from J:\Neramit\src\main\AndroidManifest.xml:105:9-94
+	android:theme
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:105:53-82
+	android:name
+		ADDED from J:\Neramit\src\main\AndroidManifest.xml:105:19-52
