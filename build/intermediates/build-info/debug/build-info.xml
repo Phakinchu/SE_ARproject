@@ -6,22 +6,22 @@
     density="xhdpi"
     format="10"
     plugin-version="3.1.0"
-    timestamp="1524760832645"
+    timestamp="1524772577303"
     token="5149979126720507951"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5618" />
+        duration="1538" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="419" />
+        duration="347" />
     <task
         name="verifier"
-        duration="707" />
+        duration="752" />
 
     <artifact
         location="J:\Neramit\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1524760832645"
+        timestamp="1524772577303"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="J:\Neramit\build\intermediates\split-apk\debug\dep\dependencies.apk"

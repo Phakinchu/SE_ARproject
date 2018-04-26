@@ -54,6 +54,15 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.cpe.neramit.WelcomeActivity"
+            android:theme="@style/nobar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name="com.cpe.neramit.UnityPlayerNativeActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
             android:label="@string/app_name"
@@ -71,10 +80,11 @@
             android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
             android:label="@string/app_name"
             android:screenOrientation="portrait" />
+
         <!--
-            To support devices using the TI S3D library for stereo mode we must 
-            add the following library.
-            Devices that require this are: ODG X6 
+        To support devices using the TI S3D library for stereo mode we must
+        add the following library.
+        Devices that require this are: ODG X6
         -->
         <uses-library
             android:name="com.ti.s3d"
@@ -86,7 +96,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="15fafa5c-f25e-4b40-aeb4-9263064a66ae" />
+            android:value="c862db52-cb2f-418a-af6d-ee94cd23c053" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />
@@ -97,15 +107,6 @@
             android:name="android.max_aspect"
             android:value="2.1" />
 
-        <activity
-            android:name="com.cpe.neramit.WelcomeActivity"
-            android:theme="@style/nobar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <activity android:name="com.cpe.neramit.LearnMoreActivity" />
         <activity
             android:name="com.cpe.neramit.HowToPlayActivity"
