@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\Neramit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "C:\\Users\\Patda9\\Downloads\\Documents\\SE\\repo\\SE_ARproject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PhakinJn\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\af72a7cb835fc50ae60b63f6449d5524\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\Patda9\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\1f5d318ea4363cbc73b7dc9e39f85eb2\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
+                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
+                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Patda9\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\4c5fa1e0caed3c1159a3430d2a8c58f7\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1961",
                         "endColumns": "100",
                         "endOffsets": "2057"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\PhakinJn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\fd9fd3d012b82a2a28549d8cb5f6050c\\res\\values-mk\\values-mk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
-                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
-                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
                     }
                 }
             ]

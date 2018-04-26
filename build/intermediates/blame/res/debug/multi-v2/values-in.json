@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\Neramit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "C:\\Users\\Patda9\\Downloads\\Documents\\SE\\repo\\SE_ARproject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PhakinJn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\fd9fd3d012b82a2a28549d8cb5f6050c\\res\\values-in\\values-in.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,215,317,422,509,613,729,811,890,976,1079,1188,1289,1393,1501,1609,1765,1864",
-                        "endColumns": "109,101,104,86,103,115,81,78,85,102,108,100,103,107,107,155,98,83",
-                        "endOffsets": "210,312,417,504,608,724,806,885,971,1074,1183,1284,1388,1496,1604,1760,1859,1943"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\PhakinJn\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\af72a7cb835fc50ae60b63f6449d5524\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\Patda9\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\4c5fa1e0caed3c1159a3430d2a8c58f7\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1948",
                         "endColumns": "100",
                         "endOffsets": "2044"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Patda9\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\1f5d318ea4363cbc73b7dc9e39f85eb2\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,317,422,509,613,729,811,890,976,1079,1188,1289,1393,1501,1609,1765,1864",
+                        "endColumns": "109,101,104,86,103,115,81,78,85,102,108,100,103,107,107,155,98,83",
+                        "endOffsets": "210,312,417,504,608,724,806,885,971,1074,1183,1284,1388,1496,1604,1760,1859,1943"
                     }
                 }
             ]

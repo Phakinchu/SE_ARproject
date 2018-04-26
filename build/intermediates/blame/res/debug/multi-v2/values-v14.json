@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\Neramit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\Patda9\\Downloads\\Documents\\SE\\repo\\SE_ARproject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "J:\\Neramit\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "C:\\Users\\Patda9\\Downloads\\Documents\\SE\\repo\\SE_ARproject\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",

@@ -16,7 +16,54 @@
         app:itemTextColor="#30183a"
         app:menu="@menu/drawer_menu"
         android:layout_gravity="start" >
-
     </android.support.design.widget.NavigationView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        >
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintBottom_toBottomOf="8dp"
+            app:layout_constraintEnd_toEndOf="8dp"
+            app:layout_constraintStart_toStartOf="8dp"
+            app:layout_constraintTop_toTopOf="8dp"
+            android:background="#FFFFFF"
+            ><TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="What’s Neramit
+
+	Neramit คือ Andriod application ของ Computer Vision and Pattern Recognition Lab ของ ภาควิชา วิศวคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเชียงใหม่ ซึ่งเป็น AR application ที่ให้เขียนคำศัพท์ลงบนกระดาษโดยจะมีคำศัพท์ตาม Dictionary ซึ่งสามารถเพิ่ม Adj หรือ verb  ได้
+
+How Neramit Work
+
+Neramit ทำงานโดยใช้ Optical Character Recognition (OCR) ในการ detect คำศัพท์จากกระดาษจากนั้นก็หาคำใน Dictionary  ถ้ามีคำศัพท์ใน Dictionary ก้ให้แสดงผลคำศัพท์นั้น
+
+What is Optical Character Recognition
+
+	OCR คือ กระบวนการทางกลไลหรืออิเล็กทรอนิกส์เพื่อแปลงสื่อสิ่งพิมพ์ เช่นกระดาษ นิตยสาร หรือข้อมูลอะไรก็ตามที่อยู่ในรูปของเอกสารกระดาษ ให้กลายเป็นข้อความ
+
+How To play
+
+	Go to HomePage → Choose New wish → Read Instruction → Write word if you wish (Word must in Dictionary) and you can write alignment in picture for better performance
+"
+            android:layout_margin="8dp"
+            android:textStyle="bold"/></android.support.constraint.ConstraintLayout>
+    </ScrollView>
 
 </android.support.v4.widget.DrawerLayout>
