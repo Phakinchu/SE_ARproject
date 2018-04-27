@@ -57,36 +57,7 @@
                     android:textStyle="bold" />
             </TableRow>
 
-            <TableRow
-                android:layout_width="fill_parent"
-                android:layout_height="0dp"
-                android:layout_margin="1dp"
-                android:layout_weight="1"
-                android:background="#000000">
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_column="0"
-                    android:layout_margin="1dp"
-                    android:background="#f1c8b8"
-                    android:gravity="center"
-                    android:text="BOX"
-                    android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="18dp" />
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_column="1"
-                    android:layout_margin="1dp"
-                    android:background="#f1c8b8"
-                    android:gravity="center"
-                    android:text="RED, SMALL, BIG"
-                    android:textAppearance="?android:attr/textAppearanceLarge"
-                    android:textSize="18dp" />
-
-            </TableRow>
 
             <TableRow
                 android:layout_width="fill_parent"
@@ -264,7 +235,7 @@
                     android:layout_margin="1dp"
                     android:background="#f1c8b8"
                     android:gravity="center"
-                    android:text="WALKING, JUMPING"
+                    android:text="WALKING"
                     android:textSize="18dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
             </TableRow>
@@ -324,7 +295,7 @@
                     android:layout_margin="1dp"
                     android:background="#f1c8b8"
                     android:gravity="center"
-                    android:text="WALKING, JUMPING"
+                    android:text="WALKING"
                     android:textSize="18dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
             </TableRow>

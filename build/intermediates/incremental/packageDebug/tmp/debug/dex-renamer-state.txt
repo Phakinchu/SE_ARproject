@@ -1,7 +1,7 @@
-#Fri Apr 27 02:58:07 ICT 2018
-base.0=J\:\\Neramit\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Fri Apr 27 08:54:21 ICT 2018
+base.0=J\:\\SE_ARproject\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=J\:\\Neramit\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.1=J\:\\SE_ARproject\\build\\intermediates\\transforms\\dexMerger\\debug\\12

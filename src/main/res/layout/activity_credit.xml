@@ -57,7 +57,7 @@
                 android:layout_marginTop="8dp"
                 android:background="#f1c8b8"
                 android:gravity="center"
-                android:text="580610633 Natchapon Petaitiamthong\n580610649 Naruedom Moorawong\n580610664 Pakin Chukiatkajorn\n580610665 Patdanai Duangwaropas\n580610675 Warakorn Mekakarapinyo"
+                android:text="580610633 Natchapon Petaitiamthong\n580610649 Naluedom Moorawong\n580610664 Pakin Chukiatkajorn\n580610665 Patdanai Duangwaropas\n580610675 Warakorn Mekakarapinyo"
                 android:textStyle="bold" />
         </android.support.constraint.ConstraintLayout>
     </android.support.constraint.ConstraintLayout>

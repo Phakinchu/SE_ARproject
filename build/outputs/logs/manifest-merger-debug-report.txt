@@ -1,286 +1,282 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-MERGED from [com.android.support:design:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\907aebf778584d4d27228f4671e61acb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1f5d318ea4363cbc73b7dc9e39f85eb2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcb2f5397dae5368ee69bab1bd5773\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7d96d8099f54c5e042f2302d8145fddc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\43002c64b21d3b9880de5baacec6bdfb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\77721aada6297d10a3e1f8e7097a99b8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8dc37249d2cf7c9d388f89037568e929\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ff31576fc11afb26a958085e2679c085\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30a89e7df785cae5887cdfddabdfee03\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6235ef486acc79196d7a11bbac062bf6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\37c62d945f1650178d98578b4690423f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e79e602c4b9b2bb75ace6967ba629b71\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4c5fa1e0caed3c1159a3430d2a8c58f7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb417e8e3633e0dfbd9464bc56eefbe1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a7a264bcc063836d835f81e89f921d9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e307a7fb8a8f307bfdf702711fa803bc\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\daf83b156bd60e62e96838d58009c5c0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:1-117:12
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\53c6ad945134b67707255391e4fb724e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:17:1-22:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:1-116:12
 	package
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:7:5-30
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:2:11-69
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:6:5-28
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:4:5-45
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:4:5-45
 	android:theme
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:5:5-52
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:5:5-52
 uses-sdk
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
-MERGED from [com.android.support:design:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\907aebf778584d4d27228f4671e61acb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\907aebf778584d4d27228f4671e61acb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1f5d318ea4363cbc73b7dc9e39f85eb2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1f5d318ea4363cbc73b7dc9e39f85eb2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcb2f5397dae5368ee69bab1bd5773\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcb2f5397dae5368ee69bab1bd5773\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7d96d8099f54c5e042f2302d8145fddc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\7d96d8099f54c5e042f2302d8145fddc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\43002c64b21d3b9880de5baacec6bdfb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\43002c64b21d3b9880de5baacec6bdfb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\77721aada6297d10a3e1f8e7097a99b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\77721aada6297d10a3e1f8e7097a99b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8dc37249d2cf7c9d388f89037568e929\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\8dc37249d2cf7c9d388f89037568e929\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ff31576fc11afb26a958085e2679c085\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\ff31576fc11afb26a958085e2679c085\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30a89e7df785cae5887cdfddabdfee03\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30a89e7df785cae5887cdfddabdfee03\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6235ef486acc79196d7a11bbac062bf6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\6235ef486acc79196d7a11bbac062bf6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\37c62d945f1650178d98578b4690423f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\37c62d945f1650178d98578b4690423f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e79e602c4b9b2bb75ace6967ba629b71\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e79e602c4b9b2bb75ace6967ba629b71\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4c5fa1e0caed3c1159a3430d2a8c58f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4c5fa1e0caed3c1159a3430d2a8c58f7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb417e8e3633e0dfbd9464bc56eefbe1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb417e8e3633e0dfbd9464bc56eefbe1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a7a264bcc063836d835f81e89f921d9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a7a264bcc063836d835f81e89f921d9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e307a7fb8a8f307bfdf702711fa803bc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e307a7fb8a8f307bfdf702711fa803bc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\daf83b156bd60e62e96838d58009c5c0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\daf83b156bd60e62e96838d58009c5c0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\20a03732d908b6441b71610a61378d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\fd9fd3d012b82a2a28549d8cb5f6050c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\53c6ad945134b67707255391e4fb724e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\53c6ad945134b67707255391e4fb724e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\723d1bc10b3cd64e49db67b8c1e3dcdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\4d646bf0987aeaa0588fde0f7599b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\1c4f85f98c726ca53512fc52e2eb1deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\bc61e691706f4926c6c991bb08769250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\173009fc362b56643dce7574da7ffae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\50d1a6f6c9fbe002ce8bccccf05e133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\208ae86295c480d33aa09aa8e7080612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\d3b8e5913b4ab7711cf3a04c33b09126\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\2d84b88b549b304ad10e45806cfce317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\af72a7cb835fc50ae60b63f6449d5524\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\640ab75effb348292a14cbbfefa1a0b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63145b436a7a03b2069f48153ac74a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2065c184eda7cf90a784ee358567827c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b15c4243b803148cc8eb0935820e332d\AndroidManifest.xml:20:5-44
+INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml:9:5-11:41
 	android:targetSdkVersion
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:11:9-38
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
+		INJECTED from J:\SE_ARproject\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:10:9-35
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:10:9-35
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:13:5-60
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:13:5-60
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:13:19-57
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:13:19-57
 supports-screens
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:15:5-20:40
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:15:5-20:40
 	android:largeScreens
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:17:9-36
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:17:9-36
 	android:smallScreens
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:19:9-36
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:19:9-36
 	android:normalScreens
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:18:9-37
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:18:9-37
 	android:xlargeScreens
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:20:9-37
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:20:9-37
 	android:anyDensity
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:16:9-34
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:16:9-34
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:22:5-67
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:22:5-67
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:22:22-64
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:22:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:23:5-65
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:23:5-65
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:23:22-62
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:23:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:24:5-79
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:24:22-76
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:24:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:25:5-81
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:25:5-81
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:25:22-78
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:25:22-78
 uses-feature#0x00020000
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:27:5-54
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:27:5-54
 	android:glEsVersion
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:27:19-51
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:27:19-51
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:28:5-30:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:28:5-30:36
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:30:9-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:30:9-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:29:9-57
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:29:9-57
 uses-feature#android.hardware.camera.front
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:31:5-33:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:31:5-33:36
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:33:9-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:33:9-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:32:9-53
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:32:9-53
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:34:5-36:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:34:5-36:36
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:36:9-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:36:9-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:35:9-52
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:35:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:37:5-39:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:37:5-39:36
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:39:9-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:39:9-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:38:9-63
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:38:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:40:5-42:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:40:5-42:36
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:42:9-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:42:9-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:41:9-72
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:41:9-72
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:44:5-75
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:44:5-75
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:44:22-72
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:44:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:45:5-80
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:45:5-80
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:45:22-77
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:45:22-77
 application
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:47:5-115:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcb2f5397dae5368ee69bab1bd5773\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Patda9\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcb2f5397dae5368ee69bab1bd5773\AndroidManifest.xml:9:5-20
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:47:5-114:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\53c6ad945134b67707255391e4fb724e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PhakinJn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\53c6ad945134b67707255391e4fb724e\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:52:9-35
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:52:9-35
 	android:label
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:50:9-41
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:50:9-41
 	android:roundIcon
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:51:9-54
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:51:9-54
 	android:icon
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:49:9-43
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:49:9-43
 	android:allowBackup
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:48:9-35
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:48:9-35
 	android:theme
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:53:9-40
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:53:9-40
 activity#com.cpe.neramit.WelcomeActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:54:9-62:20
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:54:9-62:20
 	android:theme
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:56:13-41
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:56:13-41
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:55:13-44
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:55:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:57:13-61:29
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:57:13-61:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:58:17-69
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:58:17-69
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:58:25-66
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:58:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:60:17-77
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:60:17-77
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:60:27-74
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:60:27-74
 activity#com.cpe.neramit.UnityPlayerNativeActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:63:9-75:20
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:63:9-75:20
 	android:screenOrientation
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:68:13-51
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:68:13-51
 	android:label
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:66:13-45
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:66:13-45
 	android:launchMode
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:67:13-44
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:67:13-44
 	android:configChanges
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:65:13-194
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:65:13-194
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:64:13-54
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:64:13-54
 meta-data#unityplayer.UnityActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:69:13-71:40
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:69:13-71:40
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:71:17-37
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:71:17-37
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:70:17-57
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:70:17-57
 meta-data#unityplayer.ForwardNativeEventsToDalvik
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:72:13-74:41
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:72:13-74:41
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:74:17-38
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:74:17-38
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:73:17-71
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:73:17-71
 activity#com.unity3d.player.VideoPlayer
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:76:9-80:52
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:76:9-80:52
 	android:screenOrientation
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:80:13-49
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:80:13-49
 	android:label
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:79:13-45
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:79:13-45
 	android:configChanges
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:78:13-170
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:78:13-170
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:77:13-58
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:77:13-58
 uses-library#com.ti.s3d
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:87:9-89:40
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:87:9-89:40
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:89:13-37
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:89:13-37
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:88:13-38
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:88:13-38
 uses-library#com.osterhoutgroup.api.ext
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:91:9-93:40
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:91:9-93:40
 	android:required
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:93:13-37
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:93:13-37
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:92:13-54
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:92:13-54
 meta-data#unity.build-id
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:95:9-97:68
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:95:9-97:68
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:97:13-65
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:97:13-65
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:96:13-42
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:96:13-42
 meta-data#unity.splash-mode
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:98:9-100:33
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:98:9-100:33
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:100:13-30
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:100:13-30
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:99:13-45
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:99:13-45
 meta-data#unity.splash-enable
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:101:9-103:36
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:101:9-103:36
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:103:13-33
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:103:13-33
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:102:13-47
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:102:13-47
 meta-data#android.max_aspect
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:104:9-106:35
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:104:9-106:35
 	android:value
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:106:13-32
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:106:13-32
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:105:13-46
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:105:13-46
 activity#com.cpe.neramit.LearnMoreActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:108:9-55
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:108:9-55
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:108:19-52
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:108:19-52
 activity#com.cpe.neramit.HowToPlayActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:109:9-111:44
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:109:9-111:44
 	android:theme
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:111:13-41
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:111:13-41
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:110:13-46
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:110:13-46
 activity#com.cpe.neramit.DictActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:112:9-50
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:112:9-50
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:112:19-47
-activity#com.cpe.neramit.BackgroundActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:113:9-56
-	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:113:19-53
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:112:19-47
 activity#com.cpe.neramit.CreditActivity
-ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:114:9-61
+ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:113:9-61
 	android:name
-		ADDED from C:\Users\Patda9\Downloads\Documents\SE\repo\SE_ARproject\src\main\AndroidManifest.xml:114:19-49
+		ADDED from J:\SE_ARproject\src\main\AndroidManifest.xml:113:19-49

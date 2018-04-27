@@ -6,99 +6,99 @@
     density="xhdpi"
     format="10"
     plugin-version="3.1.0"
-    timestamp="1524772577303"
-    token="5149979126720507951"
+    timestamp="1524793975021"
+    token="-2667406066227316696"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1538" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="347" />
+        duration="812" />
     <task
         name="verifier"
-        duration="752" />
+        duration="0" />
 
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="J:\Neramit\build\intermediates\instant-run-apk\debug\Neramit-debug.apk"
+        location="J:\SE_ARproject\build\intermediates\instant-run-apk\debug\SE_ARproject-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1524772577303"
+        timestamp="1524793975021"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="J:\SE_ARproject\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="J:\Neramit\build\intermediates\instant-run-apk\debug\Neramit-debug.apk"
+            location="J:\SE_ARproject\build\intermediates\instant-run-apk\debug\SE_ARproject-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
